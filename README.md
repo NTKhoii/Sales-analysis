@@ -17,10 +17,10 @@ All the data of 12 months:
    +) Q5: What product sold the most? Why do you think it sold the most?
 
 #### To answer these questions we walk through many different pandas & matplotlib methods. They include:
-_Concatenating multiple csvs together to create a new DataFrame (pd.concat)_
-_Adding columns_
-_Parsing cells as strings to make new columns (.str)_
-_Using the .apply() method_
-_Using groupby to perform aggregate analysis_
-_Plotting bar charts and lines graphs to visualize our results_
-_Labeling our graphs_
++) _Concatenating multiple csvs together to create a new DataFrame (pd.concat)_
++) _Adding columns_
++) _Parsing cells as strings to make new columns (.str)_
++) _Using the .apply() method_
++) _Using groupby to perform aggregate analysis_
++) _Plotting bar charts and lines graphs to visualize our results_
++) _Labeling our graphs_
